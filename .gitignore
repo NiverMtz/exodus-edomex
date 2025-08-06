@@ -1,1 +1,5 @@
+# env
 venv3.13.5/
+
+# datasets
+eod_2017_csv/
